@@ -1,0 +1,197 @@
+/* Grafitszürke háttér és fehér szöveg */
+body {
+    background-color: #2f2f2f;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Konténer */
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    width: 90%;
+    max-width: 800px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Címek */
+h1, h2, h3 {
+    color: #f1f1f1;
+    margin: 15px 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    color: #FF6347; /* Például piros szín */
+}
+
+/* Táblázat */
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+table th, table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #555;
+}
+
+table th {
+    background-color: #444;
+    color: #fff;
+    font-weight: bold;
+}
+
+table tr:hover {
+    background-color: #555;
+}
+
+table a {
+    text-decoration: none;
+    color: #1e90ff;
+}
+
+table a:hover {
+    text-decoration: underline;
+}
+
+/* Keresőmező */
+#search {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 16px;
+    background-color: #444;
+    border: 1px solid #666;
+    color: white;
+    border-radius: 5px;
+}
+
+#search::placeholder {
+    color: #bbb;
+}
+
+/* Gombok */
+button, .action-button, .logout-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 5px;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+button:hover, .action-button:hover, .logout-button:hover {
+    background-color: #45a049;
+}
+
+.action-button.delete {
+    background-color: #f44336;
+}
+
+.action-button.delete:hover {
+    background-color: #e03128;
+}
+
+/* Fájl feltöltés mező */
+input[type="file"] {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #666;
+    background-color: #444;
+    color: white;
+    border-radius: 5px;
+}
+
+input[type="file"]::file-selector-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="file"]::file-selector-button:hover {
+    background-color: #45a049;
+}
+
+/* Modális ablak stílus */
+#popup-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 30px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    z-index: 1000;
+}
+
+#popup-content {
+    background: #333;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#popup-modal button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 50px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#popup-modal button:hover {
+    background-color: #45a049;
+}
+
+/* QR olvasó stílus */
+#qr-reader {
+    width: 400px;
+    height: 400px;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #666666;
+}
+
+/* Kijelentkezés gomb */
+.logout-button {
+    display: inline-block;
+    margin-top: 20px;
+    background-color: #f44336;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.logout-button:hover {
+    background-color: #e03128;
+}

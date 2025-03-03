@@ -1,0 +1,215 @@
+[14-Nov-2024 14:17:46 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in /home/ticketqr/public_html/qrolvaso/process_upload.php on line 2
+[14-Nov-2024 14:17:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ticketqr/public_html/qrolvaso/process_upload.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/process_upload.php on line 2
+[14-Nov-2024 14:59:52 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 14:59:52 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 14:59:52 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 14:59:53 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:00:27 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:00:27 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:00:28 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:00:28 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:00:43 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:00:43 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:00:43 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:00:43 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:00:44 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:00:44 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:00:51 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/add_name.php(9): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:01:34 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/add_name.php(9): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:05:14 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:05:15 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:05:15 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[14-Nov-2024 15:05:15 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Reader\Exception: File "uploads/nevek.xlsx" does not exist. in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php:147
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(133): PhpOffice\PhpSpreadsheet\Shared\File::assertFile()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(104): PhpOffice\PhpSpreadsheet\IOFactory::createReaderForFile()
+#2 /home/ticketqr/public_html/qrolvaso/search_name.php(8): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#3 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/File.php on line 147
+[15-Nov-2024 15:10:00 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[15-Nov-2024 18:46:39 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[15-Nov-2024 18:46:39 UTC] PHP Fatal error:  Uncaught ValueError: Invalid or uninitialized Zip object in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php:378
+Stack trace:
+#0 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php(378): ZipArchive->getFromName()
+#1 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php(119): PhpOffice\PhpSpreadsheet\Reader\Xlsx->getFromZipArchive()
+#2 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php(2221): PhpOffice\PhpSpreadsheet\Reader\Xlsx->loadZip()
+#3 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php(413): PhpOffice\PhpSpreadsheet\Reader\Xlsx->getWorkbookBaseName()
+#4 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/BaseReader.php(197): PhpOffice\PhpSpreadsheet\Reader\Xlsx->loadSpreadsheetFromFile()
+#5 /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/IOFactory.php(106): PhpOffice\PhpSpreadsheet\Reader\BaseReader->load()
+#6 /home/ticketqr/public_html/qrolvaso/update_qr_code.php(10): PhpOffice\PhpSpreadsheet\IOFactory::load()
+#7 {main}
+  thrown in /home/ticketqr/public_html/qrolvaso/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Reader/Xlsx.php on line 378
+[15-Nov-2024 18:59:45 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[15-Nov-2024 19:02:00 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[15-Nov-2024 19:07:38 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[15-Nov-2024 20:07:46 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[15-Nov-2024 20:11:04 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[15-Nov-2024 20:15:25 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[15-Nov-2024 20:16:01 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[15-Nov-2024 20:20:19 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[15-Nov-2024 20:58:01 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[15-Nov-2024 20:59:14 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:10:23 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:14:16 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:19:15 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:22:20 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:26:24 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:26:37 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:26:54 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:28:24 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:36:25 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:43:37 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:45:38 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:46:33 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:48:49 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:51:21 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:55:13 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:57:16 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:58:32 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 08:59:44 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 09:00:06 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 09:01:10 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 09:01:29 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 09:01:46 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 09:02:09 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 09:02:54 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 09:03:10 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 09:06:26 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 09:23:43 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 11:16:58 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 11:17:43 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 11:20:40 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 11:25:35 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 11:29:36 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 11:31:00 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 12:02:04 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 12:03:38 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 12:12:13 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 12:15:51 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 12:17:23 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 12:18:01 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 12:37:10 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 12:41:34 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 13:48:19 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 14:46:34 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[16-Nov-2024 14:55:49 UTC] PHP Warning:  Undefined array key 1 in /home/ticketqr/public_html/qrolvaso/update_qr_code.php on line 17
+[29-Nov-2024 20:21:01 UTC] PHP Warning:  Undefined array key "Elvision" in /home/ticketqr/public_html/qrolvaso/dashboard.php on line 10
+[29-Nov-2024 20:21:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ticketqr/public_html/qrolvaso/dashboard.php on line 10
+[29-Nov-2024 20:25:54 UTC] PHP Warning:  mkdir(): File exists in /home/ticketqr/public_html/qrolvaso/register.php on line 23
