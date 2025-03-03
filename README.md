@@ -1,0 +1,2 @@
+# qrolvaso
+qrolvaso vevőkhöz
